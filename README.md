@@ -1,5 +1,7 @@
 # Proof-of-Work Triad
 
+Live demo: https://pow-triad.pages.dev 
+
 Public portfolio of **three artifact types** for AGI strategy / safety / policy roles:
 
 ```
@@ -85,4 +87,4 @@ Full TransformerLens path and notebook instructions live in each package README.
 
 
 
-https://pow-triad.pages.dev 
+
