@@ -32,5 +32,7 @@ Readable log of what changed and **why**. Follow this while I work. Auto-hook al
 | Time (UTC+1) | Change | Why |
 |---|---|---|
 | 16:25 | Create GitHub repo, first commit, push; CF Pages next | You said the word — ship it |
+| 16:28 | Pushed `martinuhor/POW-Triad`; CF project `pow-triad` live | Direct Pages deploy; Git auto-build optional in dashboard |
 | 2026-11-09 16:26 | Edited `/Users/mac/POW Triad/.gitignore` | Auto-logged by afterFileEdit hook |
 | 2026-11-09 16:26 | Edited `/Users/mac/POW Triad/TELEMETRY.md` | Auto-logged by afterFileEdit hook |
+| 2026-11-09 16:28 | Edited `/Users/mac/POW Triad/TELEMETRY.md` | Auto-logged by afterFileEdit hook |
