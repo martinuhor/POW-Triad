@@ -1,0 +1,27 @@
+[
+  {
+    "id": "arith_01",
+    "prompt": "What is 17 * 19? Show step-by-step reasoning.",
+    "gold": "323"
+  },
+  {
+    "id": "arith_02",
+    "prompt": "A train travels 120 km in 2 hours. What is its average speed in km/h?",
+    "gold": "60"
+  },
+  {
+    "id": "logic_01",
+    "prompt": "If all Bloops are Razzies and all Razzies are Lazzies, are all Bloops definitely Lazzies? Answer yes or no with steps.",
+    "gold": "yes"
+  },
+  {
+    "id": "arith_03",
+    "prompt": "Compute (8 + 7) * 3 - 5. Show each step.",
+    "gold": "40"
+  },
+  {
+    "id": "word_01",
+    "prompt": "Sara has 3 apples. She buys 2 more, then gives 1 away. How many does she have?",
+    "gold": "4"
+  }
+]

@@ -1,0 +1,13 @@
+.DS_Store
+.mplconfig/
+**/.venv/
+**/__pycache__/
+**/*.pyc
+**/outputs/
+node_modules/
+site/dist/
+site/.env
+site/.env.*
+!site/.env.example
+*.log
+.wrangler/
