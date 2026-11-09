@@ -74,6 +74,9 @@ python eval/benchmark_refusal.py --mock
 Full TransformerLens path and notebook instructions live in each package README. Heavy deps (`torch`, `vllm`, `transformer-lens`) are optional—swap backends when you have GPU/weights.
 
 
+https://pow-triad.pages.dev 
+
+
 
 ## Note on Repo B framing
 
